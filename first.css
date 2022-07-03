@@ -1,3 +1,10 @@
-body{
- 
+p{
+ color: violet;
+}
+h1{
+  color: indigo;
+}
+h3,
+button{
+  color:tomato;
 }
